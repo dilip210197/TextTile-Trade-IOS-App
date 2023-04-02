@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "textile-trade-50d88",
+  "private_key_id": "a8566b5a3c0cea1a4ba69ea792a65befbfc5e8e9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC056NTnykrbqey\nQl6M8wzfBen0pYpm1q5eTn1DI4AXN9kzRed7jF1vbKYy+qpQAvvLHL7sw6AEP0sX\nKxIL4wIfey8XGvl2puVZdaJNEaM46PDyC1y2+6XjPlrvi9FoT/oA0GOOS+ZEuEcY\nDoWBWoCjE9PhwXHMaICu9v8rFMt9RCZTYhObISJ4xgBpxkX3zCL1EqwZAZQVbnlj\nZ8a+e6Zn8D/FUXnmOBpJe/tsydA/gOnUnvFR0+QoBHf2mnZZPWJmmxqcfoX+CY9I\nH0VSofEbYn4X/Fbs6GG5SCHkz9VOY9XCprcI59Qb0ALLf99O2IwuY+Vw0Bx/KN8V\n/AbbRwkJAgMBAAECggEAJOvHtjfcH6ygVi3cfTjXribXVmJ4yj9TbBTp1MuIh3ST\nBDdmpJ0DrsuGag4lt1m8iPovb0QHwwYl7a8RKlLk6obqF/Wd51ztnyH2g3MvlFxa\nXJP8Eq5ub2AZEB3BmeAEvqjJQM/1yZ2wiNTh44IUkfPogQFJl/XWGZ94eZLvavum\n4Pi6TmXWtQZUamrZLAkRJ6m8ZENQXtxLiUd5pVxSnMlEoOJcE/XDofM1U9G1Wm0t\ncW36PFs5bEJlgEMZ9zxqUGcJedbJzIiRw3ayQJN9YvHHQmG2Wrx6//D655pyxKey\nwsLPmkdF1DhDbaAIsYT0rXHOIs7BM06JT+8i24GJ9wKBgQDvB8RihrWT6+yR1fRK\njW+BFXo0nWmJiGUQfeyHXcGnU9eSRCMQ1XhPlnsyjkTKslmHRdsVmAKFcbmNvP2q\nR9UtIOTHGQJqQLbjxtOmx2JiORmcht3ksL4CrGjRCFXwBnxKuP9lQc6Fv+yfTnRB\n+N5nNMODWXh+f+Iiv0M5KoNKdwKBgQDBv3mILSLQtVkGwClN4U8gMvgdfTAov+p2\nlGgK5BdF69HVqnchrbvxZ5stbW7w5bYq/mXGas+Vq9/pJnOw1eyCPFFNBKR4imoZ\nvPuLkk5c/ROo8I72cSCpvlpgRFRp1sCnQASUQckGBX2rSGJDMBtY/4Mgf4BYh385\nO+OrmbGofwKBgQDUoakuKD1Aj/+LH7PH2hdV0gA668ilQsL8r7gIFvwc2HWMtLYo\n1GzJB8kiCPLjCVKhBiBFDks34Bm7H2Lb5jiZg4hgIDxIvray2v0OgJFhZQAGgObE\n+ACfKjW3tV2VPn+0jOsMbUTFMBzS/hxnT3awgnxlzOJmTWahmFi5crsGMwKBgEzX\n7ZLWHA3dL08fHgK2jxR9Qq0nftdartqTJ+TR7G0eB96PuqpP5s/rQL+2vJ6s7SCG\nP8V/jY+WWLt3NcF4R1KsK665XaY1d7l3m+kSgSQeeBK0Pm9+FO9eAShXUYec1lI/\ncNGAegN6YAp0Lgzp4p7c0JwuFbCHJS2FFFp2HeFvAoGAFV6zZye0aqqOwfzKJKhU\nwcg0+inT1VTJu3+2fRbgRxMGOLW0SDJWg8WYvo3m6B5QynjwZP31yMbK6xDzfvt4\niXfCTcu5SuFxv2Otmg7t91rC7h+qDcRoqM5Bc3+9NfEf16ZCnJOFMD3fT6mpPQuU\nmLdiJ7ONXC6prfrmeQC7lhU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-uhbkz@textile-trade-50d88.iam.gserviceaccount.com",
+  "client_id": "109037999942043290759",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-uhbkz%40textile-trade-50d88.iam.gserviceaccount.com"
+}
